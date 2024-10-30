@@ -5,7 +5,7 @@
 			"name": "Linux",
 			"includePath": [
 				"${default}",
-				"build"
+				"build/_deps/sfml-src/include"
 			],
 			"defines": [],
 			"compilerPath": "/usr/bin/gcc",
